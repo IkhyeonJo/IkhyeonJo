@@ -12,8 +12,4 @@ A self-hosted ASP.NET Core app (finance, calendar, boards, user management) — 
 - **Layered solution** (Domain · Repository · Service · Client), each project with its own test project — xUnit for units, Playwright for E2E.
 - **Strict TypeScript front end** — `strict` plus `noUncheckedIndexedAccess` / `exactOptionalPropertyTypes`, tested with Vitest.
 
-### Also
-- **Compilers & low-level systems** — reading LCC and TinyCC on the way to my own C toolchain (compiler, assembler, linker).
-- **Desktop** — WPF (MVVM) and TCP/IP tooling from earlier work.
-
 📫 admin@maroik.com
